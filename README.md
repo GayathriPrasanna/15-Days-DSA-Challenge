@@ -1,2 +1,4 @@
-# 15-Days-DSA-Challenge
-My 15 Days DSA Challenge - 3 problems per day
+🧠 15-Days-Coding-Challenge- DSA Practice
+🔥 Leveling up DSA skills in 15 days — 3 Java LeetCode problems daily. Grateful to @digg_depper anna for the inspiration to start this journey🙏
+
+
