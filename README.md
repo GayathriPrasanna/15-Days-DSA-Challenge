@@ -9,7 +9,7 @@
 ## Day01- Problems Solved:✅
 
 1. [Two Sum](https://leetcode.com/problems/two-sum/)  
-   🔗 [My Solution](./1-two-sum/solution.java)
+   🔗 [My Solution]([./1-two-sum/solution.java](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/2b5b89f0328f888634ffaa4b8b9d59da01676216/1-two-sum/two-sum.java)
 
 2. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  
    🔗 [My Solution](./2-add-two-numbers/solution.java)
