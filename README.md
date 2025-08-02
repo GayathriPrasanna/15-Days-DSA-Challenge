@@ -1,5 +1,4 @@
-
-# 15 Days Coding Challenge 🚀
+# 15 Days Coding Challenge- DSA Practice 🚀
 
 📚 My 15 Days Coding Challenge – DSA Practice  
 ✨ Solving 3 problems per day to level up DSA skills in 15 days  
