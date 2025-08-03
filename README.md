@@ -24,7 +24,8 @@
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/a33a116d2e4ea6808839b1040020698b9a91af8e/121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.java)
 
 2. [Product of Array Except Self (LeetCode 238)](https://leetcode.com/problems/product-of-array-except-self/)  
-   🔗 [My Solution]()
+   🔗 [My Solution-Python code](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/9c25894f842ea4cded53fee128e4ae8cb306be99/238-product-of-array-except-self/product-of-array-except-self.py)
+   🔗 [My Solution-Java code](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/9c25894f842ea4cded53fee128e4ae8cb306be99/238-product-of-array-except-self/product-of-array-except-self.java)
 
-3. [Valid Palindrome (LeetCode 125)](https://leetcode.com/problems/valid-palindrome/)
-   🔗 [My Solution]()
+4. [Valid Palindrome (LeetCode 125)](https://leetcode.com/problems/valid-palindrome/)
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/9c25894f842ea4cded53fee128e4ae8cb306be99/125-valid-palindrome/valid-palindrome.java)
