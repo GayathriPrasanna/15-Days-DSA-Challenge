@@ -40,8 +40,10 @@
 
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/7701b282ce7b81506aca9f9e112d40b314fb9b9f/242-valid-anagram/valid-anagram.java)
 
-3. [find the index of the first occurence in a string (leetcode 28)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)  
+3. [find the index of the first occurence in a string (leetcode 28)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+   
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/7701b282ce7b81506aca9f9e112d40b314fb9b9f/28-find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.java)
-4. [group anagrams (leetcode 49) ](https://leetcode.com/problems/group-anagrams/)  
+5. [group anagrams (leetcode 49) ](https://leetcode.com/problems/group-anagrams/)
+     
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/7701b282ce7b81506aca9f9e112d40b314fb9b9f/49-group-anagrams/group-anagrams.java)
 
