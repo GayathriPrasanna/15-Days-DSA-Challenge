@@ -8,13 +8,13 @@
 
 ## Day01- Problems Solved:✅🔓 
 
-1. [Two Sum](https://leetcode.com/problems/two-sum/)  
+1. [Two Sum (LeetCode 1)](https://leetcode.com/problems/two-sum/)  
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/2b5b89f0328f888634ffaa4b8b9d59da01676216/1-two-sum/two-sum.java)
 
-2. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  
+2. [Add Two Numbers (LeetCode 53)](https://leetcode.com/problems/add-two-numbers/)  
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/tree/8dfde14eea9de0a5e299857327b69fdd135e1ef3/26-remove-duplicates-from-sorted-array)
 
-3. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
+3. [Longest Substring Without Repeating Characters (LeetCode 26)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/tree/ab1f77570cc65cf6e798e0294dbdeec7a75eda05/53-maximum-subarray)
 
 
@@ -34,5 +34,15 @@
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/9c25894f842ea4cded53fee128e4ae8cb306be99/125-valid-palindrome/valid-palindrome.java)
 
 
-## Day03- Problems In Progress:⏳🔒
+## Day03- Problems Solved:✅🔓
+
+1. [valid-anagram (leetcode 242)](https://leetcode.com/problems/valid-anagram/description/)
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/2b5b89f0328f888634ffaa4b8b9d59da01676216/1-two-sum/two-sum.java)
+
+2. [find the index of the first occurence in a string (leetcode 28)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)  
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/tree/8dfde14eea9de0a5e299857327b69fdd135e1ef3/26-remove-duplicates-from-sorted-array)
+
+3. [group anagrams (leetcode 49) ](https://leetcode.com/problems/group-anagrams/)  
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/tree/ab1f77570cc65cf6e798e0294dbdeec7a75eda05/53-maximum-subarray)
+
 
