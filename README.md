@@ -37,12 +37,10 @@
 ## Day03- Problems Solved:✅🔓
 
 1. [valid-anagram (leetcode 242)](https://leetcode.com/problems/valid-anagram/description/)
-   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/2b5b89f0328f888634ffaa4b8b9d59da01676216/1-two-sum/two-sum.java)
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/7701b282ce7b81506aca9f9e112d40b314fb9b9f/242-valid-anagram/valid-anagram.java)
 
 2. [find the index of the first occurence in a string (leetcode 28)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)  
-   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/tree/8dfde14eea9de0a5e299857327b69fdd135e1ef3/26-remove-duplicates-from-sorted-array)
-
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/7701b282ce7b81506aca9f9e112d40b314fb9b9f/28-find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.java)
 3. [group anagrams (leetcode 49) ](https://leetcode.com/problems/group-anagrams/)  
-   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/tree/ab1f77570cc65cf6e798e0294dbdeec7a75eda05/53-maximum-subarray)
-
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/7701b282ce7b81506aca9f9e112d40b314fb9b9f/49-group-anagrams/group-anagrams.java)
 
