@@ -29,7 +29,7 @@
 
    🔗 [My Solution-Java code](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/9c25894f842ea4cded53fee128e4ae8cb306be99/238-product-of-array-except-self/product-of-array-except-self.java)
 
-4. [Valid Palindrome (LeetCode 125)](https://leetcode.com/problems/valid-palindrome/) 
+3. [Valid Palindrome (LeetCode 125)](https://leetcode.com/problems/valid-palindrome/) 
 
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/9c25894f842ea4cded53fee128e4ae8cb306be99/125-valid-palindrome/valid-palindrome.java)
 
@@ -40,14 +40,30 @@
 
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/7701b282ce7b81506aca9f9e112d40b314fb9b9f/242-valid-anagram/valid-anagram.java)
 
-3. [find the index of the first occurence in a string (leetcode 28)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+2. [find the index of the first occurence in a string (leetcode 28)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
    
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/7701b282ce7b81506aca9f9e112d40b314fb9b9f/28-find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.java)
-5. [group anagrams (leetcode 49) ](https://leetcode.com/problems/group-anagrams/)
+3. [group anagrams (leetcode 49) ](https://leetcode.com/problems/group-anagrams/)
      
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/7701b282ce7b81506aca9f9e112d40b314fb9b9f/49-group-anagrams/group-anagrams.java)
 
 
-## Day04- Problems In Progress:✅🔒 
+## Day04- Problems Solved:✅🔓
+
+1. [ Subarray Sum Equals-K (LeetCode 560)]( https://leetcode.com/problems/subarray-sum-equals-k/)
+
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/810d5bcd639f904d78493c4507e234e5872b9d1b/560-subarray-sum-equals-k/subarray-sum-equals-k.java)
+   
+2. [Longest Palindromic Substring (LeetCode 5)](om/problems/longest-palindromic-substring/)
+   
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/810d5bcd639f904d78493c4507e234e5872b9d1b/5-longest-palindromic-substring/longest-palindromic-substring.java)
+   
+3. [Valid Parentheses (LeetCode 20)](https://leetcode.com/problems/valid-parentheses/)
+     
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/tree/810d5bcd639f904d78493c4507e234e5872b9d1b/20-valid-parentheses)
+
+
+
+## Day05 - Problems In Progress:✅🔒 
          ## Stay Tuned for the new Updates!
 
