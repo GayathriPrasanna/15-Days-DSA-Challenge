@@ -63,7 +63,21 @@
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/tree/810d5bcd639f904d78493c4507e234e5872b9d1b/20-valid-parentheses)
 
 
+## Day05- Problems Solved:✅🔓
 
-## Day05 - Problems In Progress:✅🔒 
+1. [Binary Search (LeetCode 704)](https://leetcode.com/problems/binary-search/)
+
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/3f80af53104679eb12afa7f2d9c483d78881608c/792-binary-search/binary-search.java)
+   
+2. [Linked List Cycle (LeetCode 141)](https://leetcode.com/problems/linked-list-cycle/)
+   
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/tree/3f80af53104679eb12afa7f2d9c483d78881608c/141-linked-list-cycle)
+   
+3. [Trapping Rain Water (LeetCode 42)](https://leetcode.com/problems/trapping-rain-water/description/)
+     
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/3f80af53104679eb12afa7f2d9c483d78881608c/42-trapping-rain-water/trapping-rain-water.java)
+
+
+## Day06 - Problems In Progress:✅🔒 
          ## Stay Tuned for the new Updates!
 
