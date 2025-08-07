@@ -78,6 +78,22 @@
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/3f80af53104679eb12afa7f2d9c483d78881608c/42-trapping-rain-water/trapping-rain-water.java)
 
 
-## Day06 - Problems In Progress:✅🔒 
+## Day06- Problems Solved:✅🔓
+
+1. [Search Insert Position (LeetCode 35)](https://leetcode.com/problems/search-insert-position)
+
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/ce448bc66555f7fa3dc47f05b665a314b6996a03/35-search-insert-position/search-insert-position.java)
+   
+2. [Two Sum II - Input Array Is Sorted (LeetCode 167)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
+   
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/tree/ce448bc66555f7fa3dc47f05b665a314b6996a03/167-two-sum-ii-input-array-is-sorted)
+   
+3. [Longest Substring Without Repeating Characters (LeetCode 3)](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+     
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/ce448bc66555f7fa3dc47f05b665a314b6996a03/3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java)
+
+
+
+## Day07 - Problems In Progress:✅🔒 
          ## Stay Tuned for the new Updates!
 
