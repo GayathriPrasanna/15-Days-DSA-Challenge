@@ -3,7 +3,7 @@
 📚 My 15 Days Coding Challenge – DSA Practice  
 ✨ Solving 3 problems per day to level up DSA skills in 15 days  
 📌 Java + LeetCode problems daily  
-🙏 Inspired by @Tejoooo  anna for the motivation to start this journey.
+🙏 Inspired by [@Tejoooo](https://github.com/Tejoooo) anna for the motivation to start this journey.
 
 
 ## Day01- Problems Solved:✅🔓 
