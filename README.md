@@ -97,15 +97,15 @@
 
 1. [132 Pattern (LeetCode 456)](https://leetcode.com/problems/132-pattern/)
 
-   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/ce448bc66555f7fa3dc47f05b665a314b6996a03/35-search-insert-position/search-insert-position.java)
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/4b31448a4e64ff81a70bc805a995af05246d2980/456-132-pattern/132-pattern.java)
    
 2. [Reverse Linked List II(LeetCode 92)](https://leetcode.com/problems/reverse-linked-list-ii/)
    
-   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/tree/ce448bc66555f7fa3dc47f05b665a314b6996a03/167-two-sum-ii-input-array-is-sorted)
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/4b31448a4e64ff81a70bc805a995af05246d2980/92-reverse-linked-list-ii/reverse-linked-list-ii.java)
    
 3. [Sliding Window Maximum (LeetCode 239)](https://leetcode.com/problems/sliding-window-maximum/)
      
-   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/ce448bc66555f7fa3dc47f05b665a314b6996a03/3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java)
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/4b31448a4e64ff81a70bc805a995af05246d2980/239-sliding-window-maximum/sliding-window-maximum.java)
 
 
 
