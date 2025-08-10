@@ -109,6 +109,22 @@
 
 
 
-## Day08 - Problems In Progress:✅🔒 
+## Day08- Problems Solved:✅🔓
+
+1. [Simplify Path (LeetCode 71)](https://leetcode.com/problems/simplify-path/)
+
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/7d7fb24324951f8b5592989b73e2406233d4b1e4/71-simplify-path/simplify-path.java)
+   
+2. [Basic Calculator II(LeetCode 227)](https://leetcode.com/problems/basic-calculator-ii/)
+   
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/7d7fb24324951f8b5592989b73e2406233d4b1e4/227-basic-calculator-ii/basic-calculator-ii.java)
+   
+3. [Decode String (LeetCode 394)](https://leetcode.com/problems/decode-string/)
+     
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/7d7fb24324951f8b5592989b73e2406233d4b1e4/394-decode-string/decode-string.java)
+
+
+
+## Day09 - Problems In Progress:✅🔒 
          ## Stay Tuned for the new Updates!
 
