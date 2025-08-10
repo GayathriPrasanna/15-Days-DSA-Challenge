@@ -125,7 +125,22 @@
 
 
 
-## Day09 - Problems In Progress:✅🔒 
+## Day09- Problems Solved:✅🔓
+
+1. [Maximum Depth of Binary Tree (LeetCode 104)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/0cacd33580502bb7b544e7b1ef576bde73213763/104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.java)
+   
+2. [Container  With Most Water(LeetCode 11)](https://leetcode.com/problems/container-with-most-water/)
+   
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/tree/0cacd33580502bb7b544e7b1ef576bde73213763/11-container-with-most-water)
+   
+3. [Subarray Sum Equals-K(LeetCode 560)](https://leetcode.com/problems/subarray-sum-equals-k/)
+     
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/0cacd33580502bb7b544e7b1ef576bde73213763/560-subarray-sum-equals-k/subarray-sum-equals-k.java)
+
+
+## Day10 - Problems In Progress:✅🔒 
          ## Stay Tuned for the new Updates!
 
 
