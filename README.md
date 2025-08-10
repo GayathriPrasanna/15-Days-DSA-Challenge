@@ -128,3 +128,26 @@
 ## Day09 - Problems In Progress:✅🔒 
          ## Stay Tuned for the new Updates!
 
+
+
+### If you only want the questions, check this out.
+
+## 🚀 15 Days DSA Challenge – Java + LeetCode
+
+| Day | Problem 1 | Problem 2 | Problem 3 |
+|-----|-----------|-----------|-----------|
+| Day-1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
+| Day-2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) |
+| Day-3 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Find Index of First Occurrence](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
+| Day-4 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |
+| Day-5 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Binary Search](https://leetcode.com/problems/binary-search) |
+| Day-6 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
+| Day-7 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [132 Pattern](https://leetcode.com/problems/132-pattern) | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) |
+| Day-8 | [Simplify Path](https://leetcode.com/problems/simplify-path) | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | [Decode String](https://leetcode.com/problems/decode-string) |
+| Day-9 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Container  With Most Water](https://leetcode.com/problems/container-with-most-water) | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |
+
+
+
+
+         
+
