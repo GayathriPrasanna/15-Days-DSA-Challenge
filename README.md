@@ -140,7 +140,22 @@
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/0cacd33580502bb7b544e7b1ef576bde73213763/560-subarray-sum-equals-k/subarray-sum-equals-k.java)
 
 
-## Day10 - Problems In Progress:✅🔒 
+## Day10- Problems Solved:✅🔓
+
+1. [Fibonacci Number(LeetCode 509)](https://leetcode.com/problems/fibonacci-number/)
+
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/00c8bf18e51484ddbb9e0a53b500e594f1bd61ce/1013-fibonacci-number/fibonacci-number.java)
+   
+2. [Climbing Stairs (LeetCode 70)](https://leetcode.com/problems/climbing-stairs/)
+   
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/00c8bf18e51484ddbb9e0a53b500e594f1bd61ce/70-climbing-stairs/climbing-stairs.java)
+   
+3. [Minimum Depth of Binary Tree(LeetCode 111)](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+     
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/00c8bf18e51484ddbb9e0a53b500e594f1bd61ce/111-minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.java)
+
+
+## Day11 - Problems In Progress:✅🔒 
          ## Stay Tuned for the new Updates!
 
 
@@ -160,6 +175,7 @@
 | Day-7 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | [132 Pattern](https://leetcode.com/problems/132-pattern) | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) |
 | Day-8 | [Simplify Path](https://leetcode.com/problems/simplify-path) | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | [Decode String](https://leetcode.com/problems/decode-string) |
 | Day-9 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Container  With Most Water](https://leetcode.com/problems/container-with-most-water) | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |
+| Day-10 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Climbing Stairs ](https://leetcode.com/problems/climbing-stairs/) | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 
 
 
