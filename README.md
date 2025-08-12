@@ -155,7 +155,23 @@
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/00c8bf18e51484ddbb9e0a53b500e594f1bd61ce/111-minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.java)
 
 
-## Day11 - Problems In Progress:✅🔒 
+## Day11- Problems Solved:✅🔓
+
+1. [Lowest Common Ancestor of a Binary Tree(LeetCode 236)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/6a1c08689824e430a02f26e4286575a73602a431/236-lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.java)
+   
+2. [Coin Change(LeetCode 322)](https://leetcode.com/problems/coin-change/)
+   
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/tree/6a1c08689824e430a02f26e4286575a73602a431/322-coin-change)
+   
+3. [Number of Island(LeetCode 200)](https://leetcode.com/problems/number-of-islands/)
+     
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/6a1c08689824e430a02f26e4286575a73602a431/200-number-of-islands/number-of-islands.java)
+
+
+
+## Day12 - Problems In Progress:✅🔒 
          ## Stay Tuned for the new Updates!
 
 
@@ -176,6 +192,7 @@
 | Day-8 | [Simplify Path](https://leetcode.com/problems/simplify-path) | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | [Decode String](https://leetcode.com/problems/decode-string) |
 | Day-9 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Container  With Most Water](https://leetcode.com/problems/container-with-most-water) | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |
 | Day-10 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Climbing Stairs ](https://leetcode.com/problems/climbing-stairs/) | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
+| Day-11 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Coin Change](https://leetcode.com/problems/coin-change/) | [Number of Island](https://leetcode.com/problems/number-of-islands/) |
 
 
 
