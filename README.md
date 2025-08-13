@@ -170,8 +170,25 @@
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/6a1c08689824e430a02f26e4286575a73602a431/200-number-of-islands/number-of-islands.java)
 
 
+## Day12- Problems Solved:✅🔓
 
-## Day12 - Problems In Progress:✅🔒 
+1. [Remove nth node from end of list(LeetCode 19)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/tree/8e93a0162f35cafaa19d8da03fce79f56bfc79e1/19-remove-nth-node-from-end-of-list)
+   
+2. [Plindrome linked list(LeetCode 234)](https://leetcode.com/problems/palindrome-linked-list/)
+   
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/8e93a0162f35cafaa19d8da03fce79f56bfc79e1/234-palindrome-linked-list/palindrome-linked-list.java)
+   
+3. [Intersection of two linked lists(LeetCode 160)](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+     
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/tree/8e93a0162f35cafaa19d8da03fce79f56bfc79e1/160-intersection-of-two-linked-lists)
+
+
+
+
+
+## Day13 - Problems In Progress:✅🔒 
          ## Stay Tuned for the new Updates!
 
 
@@ -193,6 +210,7 @@
 | Day-9 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Container  With Most Water](https://leetcode.com/problems/container-with-most-water) | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |
 | Day-10 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Climbing Stairs ](https://leetcode.com/problems/climbing-stairs/) | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | Day-11 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Coin Change](https://leetcode.com/problems/coin-change/) | [Number of Island](https://leetcode.com/problems/number-of-islands/) |
+| Day-12 | [Remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Plindrome linked list](https://leetcode.com/problems/palindrome-linked-list/) | [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
 
 
 
