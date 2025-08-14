@@ -184,11 +184,25 @@
      
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/tree/8e93a0162f35cafaa19d8da03fce79f56bfc79e1/160-intersection-of-two-linked-lists)
 
+## Day13- Problems Solved:✅🔓
+
+1. [Remove all adjacent duplicates in string-2(LeetCode 1320)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/c3991eb90ad121c8adf47470d594e010e62e6c36/1320-remove-all-adjacent-duplicates-in-string-ii/remove-all-adjacent-duplicates-in-string-ii.java)
+   
+2. [Astroid collision(LeetCode 735)](https://leetcode.com/problems/asteroid-collision/)
+   
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/c3991eb90ad121c8adf47470d594e010e62e6c36/735-asteroid-collision/asteroid-collision.java)
+   
+3. [Make the string great(LeetCode 1666](https://leetcode.com/problems/make-the-string-great/)
+     
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/c3991eb90ad121c8adf47470d594e010e62e6c36/1666-make-the-string-great/make-the-string-great.java)
 
 
 
 
-## Day13 - Problems In Progress:✅🔒 
+
+## Day14 - Problems In Progress:✅🔒 
          ## Stay Tuned for the new Updates!
 
 
@@ -211,6 +225,7 @@
 | Day-10 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Climbing Stairs ](https://leetcode.com/problems/climbing-stairs/) | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | Day-11 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Coin Change](https://leetcode.com/problems/coin-change/) | [Number of Island](https://leetcode.com/problems/number-of-islands/) |
 | Day-12 | [Remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Plindrome linked list](https://leetcode.com/problems/palindrome-linked-list/) | [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
+| Day-13 | [Remove all adjacent duplicates in string-2](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [Astroid collision](https://leetcode.com/problems/asteroid-collision/) | [Make the string great](https://leetcode.com/problems/make-the-string-great/) |
 
 
 
