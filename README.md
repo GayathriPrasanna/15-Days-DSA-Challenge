@@ -231,8 +231,33 @@
 
 
 
+---
 
+## 15 Days DSA Coding Challenge Completed✅
 
+I have successfully completed the **15 Days LeetCode DSA Challenge!**  
+Each day, I solved problems, learned new techniques, and became more confident with Data Structures & Algorithms using Java.
+
+---
+
+## 📈 What I Gained
+- Improved my problem-solving skills
+- Mastered key DSA topics like Arrays, Strings, Recursion, Linked Lists, and Trees
+- Built a daily habit of consistency and discipline
+
+---
+
+## 🔗 Connect with Me
+If you're on a similar journey or want to collaborate on DSA or development projects, feel free to connect:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gayathri-prasanna-chilakalapalli-15658430a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💻 [LeetCode](https://leetcode.com/u/GayathriPrasanna_07/)
+- 🧠 [GitHub](https://github.com/GayathriPrasanna/)
+
+---
+
+> 💬“💻One year of effort can change your whole mindset🧠.”_  
+> Let’s keep learning and growing! 🚀
 
 
 ### If you only want the questions, check this out.
