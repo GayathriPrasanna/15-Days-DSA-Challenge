@@ -215,11 +215,23 @@
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/5012c144f5f3cfacf880484c92883a2862e096da/204-count-primes/count-primes.java)
 
 
+## Day15- Problems Solved:✅🔓
+
+1. [Kth Largest Element in an Array (LeetCode 215)](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/4ffa466f0200d0da7392a5653d6ed64c7efb1071/215-kth-largest-element-in-an-array/kth-largest-element-in-an-array.java)
+   
+2. [Assign Cookies (LeetCode 455)](https://leetcode.com/problems/assign-cookies/)
+   
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/4ffa466f0200d0da7392a5653d6ed64c7efb1071/455-assign-cookies/assign-cookies.java)
+   
+3. [Largest Odd Number in String (LeetCode 1903)](https://leetcode.com/problems/largest-odd-number-in-string/)
+     
+   🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/4ffa466f0200d0da7392a5653d6ed64c7efb1071/2032-largest-odd-number-in-string/largest-odd-number-in-string.java)
 
 
 
-## Day15 - Problems In Progress:✅🔒 
-         ## Stay Tuned for the new Updates!
+
 
 
 
@@ -243,6 +255,7 @@
 | Day-12 | [Remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Plindrome linked list](https://leetcode.com/problems/palindrome-linked-list/) | [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
 | Day-13 | [Remove all adjacent duplicates in string-2](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [Astroid collision](https://leetcode.com/problems/asteroid-collision/) | [Make the string great](https://leetcode.com/problems/make-the-string-great/) |
 | Day-14 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | [Count Primes](https://leetcode.com/problems/count-primes/) |
+| Day-15 | [Kth Largest Element in an Array ](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Largest Odd Number in String ](https://leetcode.com/problems/largest-odd-number-in-string/) |
 
 
 
