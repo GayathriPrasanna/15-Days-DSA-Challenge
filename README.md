@@ -4,8 +4,9 @@
 ✨ Solving 3 problems per day to level up DSA skills in 15 days  
 📌 Java + LeetCode problems daily  
 🙏 Inspired by [@Tejoooo](https://github.com/Tejoooo) anna for the motivation to start this journey.
+---
 
-
+---
 ## Day01- Problems Solved:✅🔓 
 
 1. [Two Sum (LeetCode 1)](https://leetcode.com/problems/two-sum/)  
@@ -16,8 +17,9 @@
 
 3. [Longest Substring Without Repeating Characters (LeetCode 26)](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/tree/ab1f77570cc65cf6e798e0294dbdeec7a75eda05/53-maximum-subarray)
+---
 
-
+---
 ## Day02- Problems Solved:✅🔓
 
    1. [Best Time to Buy and Sell Stock (LeetCode 121)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
@@ -32,8 +34,9 @@
 3. [Valid Palindrome (LeetCode 125)](https://leetcode.com/problems/valid-palindrome/) 
 
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/9c25894f842ea4cded53fee128e4ae8cb306be99/125-valid-palindrome/valid-palindrome.java)
+---
 
-
+---
 ## Day03- Problems Solved:✅🔓
 
 1. [valid-anagram (leetcode 242)](https://leetcode.com/problems/valid-anagram/description/)
@@ -46,8 +49,9 @@
 3. [group anagrams (leetcode 49) ](https://leetcode.com/problems/group-anagrams/)
      
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/7701b282ce7b81506aca9f9e112d40b314fb9b9f/49-group-anagrams/group-anagrams.java)
+---
 
-
+---
 ## Day04- Problems Solved:✅🔓
 
 1. [ Subarray Sum Equals-K (LeetCode 560)]( https://leetcode.com/problems/subarray-sum-equals-k/)
@@ -62,7 +66,10 @@
      
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/tree/810d5bcd639f904d78493c4507e234e5872b9d1b/20-valid-parentheses)
 
+---
 
+
+---
 ## Day05- Problems Solved:✅🔓
 
 1. [Binary Search (LeetCode 704)](https://leetcode.com/problems/binary-search/)
@@ -77,6 +84,9 @@
      
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/3f80af53104679eb12afa7f2d9c483d78881608c/42-trapping-rain-water/trapping-rain-water.java)
 
+---
+
+---
 
 ## Day06- Problems Solved:✅🔓
 
@@ -91,7 +101,10 @@
 3. [Longest Substring Without Repeating Characters (LeetCode 3)](https://leetcode.com/problems/longest-substring-without-repeating-characters)
      
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/ce448bc66555f7fa3dc47f05b665a314b6996a03/3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java)
+---
 
+
+---
 
 ## Day07- Problems Solved:✅🔓
 
@@ -106,8 +119,10 @@
 3. [Sliding Window Maximum (LeetCode 239)](https://leetcode.com/problems/sliding-window-maximum/)
      
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/4b31448a4e64ff81a70bc805a995af05246d2980/239-sliding-window-maximum/sliding-window-maximum.java)
+---
 
 
+---
 
 ## Day08- Problems Solved:✅🔓
 
@@ -122,9 +137,10 @@
 3. [Decode String (LeetCode 394)](https://leetcode.com/problems/decode-string/)
      
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/7d7fb24324951f8b5592989b73e2406233d4b1e4/394-decode-string/decode-string.java)
+---
 
 
-
+---
 ## Day09- Problems Solved:✅🔓
 
 1. [Maximum Depth of Binary Tree (LeetCode 104)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
@@ -139,7 +155,9 @@
      
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/0cacd33580502bb7b544e7b1ef576bde73213763/560-subarray-sum-equals-k/subarray-sum-equals-k.java)
 
+---
 
+---
 ## Day10- Problems Solved:✅🔓
 
 1. [Fibonacci Number(LeetCode 509)](https://leetcode.com/problems/fibonacci-number/)
@@ -153,8 +171,10 @@
 3. [Minimum Depth of Binary Tree(LeetCode 111)](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
      
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/00c8bf18e51484ddbb9e0a53b500e594f1bd61ce/111-minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.java)
+---
 
 
+---
 ## Day11- Problems Solved:✅🔓
 
 1. [Lowest Common Ancestor of a Binary Tree(LeetCode 236)](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
@@ -168,8 +188,10 @@
 3. [Number of Island(LeetCode 200)](https://leetcode.com/problems/number-of-islands/)
      
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/6a1c08689824e430a02f26e4286575a73602a431/200-number-of-islands/number-of-islands.java)
+---
 
 
+---
 ## Day12- Problems Solved:✅🔓
 
 1. [Remove nth node from end of list(LeetCode 19)](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
@@ -184,6 +206,10 @@
      
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/tree/8e93a0162f35cafaa19d8da03fce79f56bfc79e1/160-intersection-of-two-linked-lists)
 
+---
+
+
+---
 ## Day13- Problems Solved:✅🔓
 
 1. [Remove all adjacent duplicates in string-2(LeetCode 1320)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
@@ -198,8 +224,9 @@
      
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/c3991eb90ad121c8adf47470d594e010e62e6c36/1666-make-the-string-great/make-the-string-great.java)
 
+---
 
-
+---
 ## Day14- Problems Solved:✅🔓
 
 1. [Power of Two (LeetCode 231)](https://leetcode.com/problems/power-of-two/)
@@ -214,7 +241,10 @@
      
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/5012c144f5f3cfacf880484c92883a2862e096da/204-count-primes/count-primes.java)
 
+---
 
+
+---
 ## Day15- Problems Solved:✅🔓
 
 1. [Kth Largest Element in an Array (LeetCode 215)](https://leetcode.com/problems/kth-largest-element-in-an-array/)
@@ -228,7 +258,7 @@
 3. [Largest Odd Number in String (LeetCode 1903)](https://leetcode.com/problems/largest-odd-number-in-string/)
      
    🔗 [My Solution](https://github.com/GayathriPrasanna/15-Days-DSA-Challenge/blob/4ffa466f0200d0da7392a5653d6ed64c7efb1071/2032-largest-odd-number-in-string/largest-odd-number-in-string.java)
-
+---
 
 
 ---
